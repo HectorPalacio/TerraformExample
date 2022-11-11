@@ -1,1 +1,6 @@
-# TerraformExample
+# TerraformExample![1](https://user-images.githubusercontent.com/62636862/201247135-2177238d-9fa5-4a33-a15e-c5fab6793ba5.PNG)
+![2](https://user-images.githubusercontent.com/62636862/201247138-b4138252-5a38-49a0-827b-774a628fb1fb.png)
+![3](https://user-images.githubusercontent.com/62636862/201247139-ed1fc193-64e2-402b-aaaa-90ba9d92b784.png)
+![4](https://user-images.githubusercontent.com/62636862/201247140-ab744099-7a5d-49cd-93ad-befa3fa7935f.png)
+![5](https://user-images.githubusercontent.com/62636862/201247141-fe96cb4a-c5d6-4092-a66a-bac0298b75c7.jpg)
+![6](https://user-images.githubusercontent.com/62636862/201247143-a399005e-d74b-44b5-aec4-3ebeca082de8.jpg)
